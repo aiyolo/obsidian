@@ -1,14 +1,7 @@
 ---
-uid: 
-aliases: null
-tags:
-  - obsidian
-source: null
-created: 2023-01-13 20:06:50
-updated: 2023-03-02 12:10:19
-title: 怎么让自己的博客被 Google 检索到
-dg-publish: true
+{"dg-publish":true,"permalink":"/Pages/怎么让自己的博客被google检索到/","title":"怎么让自己的博客被google检索到","tags":["obsidian"]}
 ---
+
 
 # 怎么让自己的博客被 Google 检索到
 
